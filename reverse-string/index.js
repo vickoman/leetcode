@@ -14,3 +14,4 @@ const reverse = (str) => {
 };
 
 console.log(reverse("vickoman")); //should return namokciv
+console.log(reverse("aloha")); //should return ahola
